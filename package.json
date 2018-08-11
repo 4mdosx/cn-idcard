@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "muse-ui": "^3.0.0-rc.7",
+    "muse-ui-toast": "^0.3.0",
     "vue": "^2.5.17"
   },
   "devDependencies": {
